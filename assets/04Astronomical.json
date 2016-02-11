@@ -1,0 +1,66 @@
+{
+    "group": [
+        {
+            "icon": "fa_space_shuttle",
+            "group": "Astronomical"
+        }
+    ],
+    "units": [
+        {
+            "name": "MILE",
+            "symbol": "mi",
+            "nicename": "mile",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "METER",
+            "symbol": "m",
+            "nicename": "meter",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "KILOMETER",
+            "symbol": "km",
+            "nicename": "kilometer",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "ASTRONOMICAL_UNIT",
+            "symbol": "AU",
+            "nicename": "astronomical unit",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "LIGHT_YEAR",
+            "symbol": "ly",
+            "nicename": "light year",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "LIGHT_SECOND",
+            "symbol": "ls",
+            "nicename": "light second",
+            "conversionunit": "METER",
+            "times": 299792458,
+            "divide": ""
+        },
+        {
+            "name": "PARSEC",
+            "symbol": "pc",
+            "nicename": "parsec",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        }
+    ]
+}

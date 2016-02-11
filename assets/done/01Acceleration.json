@@ -1,0 +1,82 @@
+{
+    "group": [
+        {
+            "icon": "fa_tachometer",
+            "group": "Acceleration"
+        }
+    ],    
+    "units": [
+        {
+            "name": "METERS_PER_SQUARE_SECOND",
+            "symbol": "m/s[squared]",
+            "nicename": "meter/sec[squared]",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "CENTIMETERS_PER_SQUARE_SECOND",
+            "symbol": "cm/s[squared]",
+            "nicename": "centimeter/sec[squared]",
+            "conversionunit": "METERS_PER_SQUARE_SECOND",
+            "times": "0.01",
+            "divide": ""
+        },
+        {
+            "name": "FOOT_PER_SQUARE_SECOND",
+            "symbol": "ft/s[squared]",
+            "nicename": "foot/sec[squared]",
+            "conversionunit": "METERS_PER_SQUARE_SECOND",
+            "times": "0.30480",
+            "divide": ""
+        },
+        {
+            "name": "STANDARD_GRAVITY",
+            "symbol": "g[earth]",
+            "nicename": "gravity",
+            "conversionunit": "METERS_PER_SQUARE_SECOND",
+            "times": "9.80665",
+            "divide": ""
+        },
+        {
+            "name": "GAL",
+            "symbol": "cm/s[squared]",
+            "nicename": "galileo",
+            "conversionunit": "METERS_PER_SQUARE_SECOND",
+            "times": "0.01",
+            "divide": ""
+        },
+        {
+            "name": "G_UNIT",
+            "symbol": "g",
+            "nicename": "gforce",
+            "conversionunit": "METERS_PER_SQUARE_SECOND",
+            "times": "9.80665",
+            "divide": ""
+        },
+        {
+            "name": "MILES_PER_SQUARE_SECOND",
+            "symbol": "mi/s[squared]",
+            "nicename": "mile/sec[squared]",
+            "conversionunit": "METERS_PER_SQUARE_SECOND",
+            "times": "1609.34348501",
+            "divide": ""
+        },
+        {
+            "name": "INCHES_PER_SQUARE_SECOND",
+            "symbol": "in/s[squared]",
+            "nicename": "inch/sec[squared]",
+            "conversionunit": "METERS_PER_SQUARE_SECOND",
+            "times": "0.0254",
+            "divide": ""
+        },
+        {
+            "name": "YARDS_PER_SQUARE_SECOND",
+            "symbol": "yd/s[squared]",
+            "nicename": "yard/sec[squared]",
+            "conversionunit": "METERS_PER_SQUARE_SECOND",
+            "times": "0.9144",
+            "divide": ""
+        }
+    ] 
+}

@@ -1,0 +1,106 @@
+{
+    "group": [
+        {
+            "icon": "fa_crop",
+            "group": "Angle"
+        }
+    ],
+    "units": [
+        {
+            "name": "CIRCLE",
+            "symbol": "",
+            "nicename": "circle",
+            "conversionunit": "DEGREE_ANGLE",
+            "times": "360",
+            "divide": ""
+        },
+        {
+            "name": "DEGREE_ANGLE",
+            "symbol": "[degree]",
+            "nicename": "degree",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "GRADE",
+            "symbol": "[superg]",
+            "nicename": "grad",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "MIL",
+            "symbol": "",
+            "nicename": "mil",
+            "conversionunit": "CIRCLE",
+            "times": "0.0001562500",
+            "divide": ""
+        },
+        {
+            "name": "MINUTE_ANGLE",
+            "symbol": "'",
+            "nicename": "minute",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "QUADRANT",
+            "symbol": "",
+            "nicename": "quadrant",
+            "conversionunit": "CIRCLE",
+            "times": "",
+            "divide": "4"
+        },
+        {
+            "name": "RADIAN",
+            "symbol": "rad",
+            "nicename": "radian",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "REVOLUTION",
+            "symbol": "r",
+            "nicename": "revolution",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "RIGHT_ANGLE",
+            "symbol": "",
+            "nicename": "right angle",
+            "conversionunit": "CIRCLE",
+            "times": "",
+            "divide": "4"
+        },
+        {
+            "name": "SECOND_ANGLE",
+            "symbol": "\"",
+            "nicename": "second",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "SEXTANT",
+            "symbol": "",
+            "nicename": "sextant",
+            "conversionunit": "CIRCLE",
+            "times": "",
+            "divide": "6"
+        },
+        {
+            "name": "SIGN",
+            "symbol": "",
+            "nicename": "sign",
+            "conversionunit": "CIRCLE",
+            "times": "",
+            "divide": "12"
+        }
+    ]
+}

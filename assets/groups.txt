@@ -1,0 +1,37 @@
+Acceleration vic|fa_tachometer
+Angle|fa_crop
+Area|fa_arrows_alt
+Astronomical|fa_space_shuttle
+Blood sugar|fa_tint
+Capacitance|fa_bolt
+Computer data|fa_database
+Cooking|fa_cutlery
+Data transfer|fa_upload
+Density|fa_gavel
+Dynamic viscosity|fa_bars
+Electric charge|fa_bolt
+Electrical resistance|fa_bolt
+Energy|fa_bolt
+Force|fa_shield
+Illuminance|fa_lightbulb_o
+Inductance|fa_fire
+Length|fa_arrows_h
+Luminance|fa_star
+Luminous energy|fa_star_half_full
+Luminous intensity|fa_star_o
+Magnetic field|fa_magnet
+Magnetic field strength|fa_magnet
+Magnetic flux|fa_magnet
+Magnetomotive force|fa_magnet
+Metric|fa_exchange
+Molar mass|fa_square
+Power|fa_truck
+Pressure|fa_wrench
+Radioactive decay|fa_arrows_alt
+Radioactive dose|fa_bomb
+Speed|fa_fighter_jet
+Temperature|fa_fire
+Time|fa_clock_o
+Volume|fa_flask
+Weight|fa_lock
+Wind speed|fa_location_arrow

@@ -1,0 +1,186 @@
+{
+    "group": [
+        {
+            "icon": "fa_bolt",
+            "group": "Capacitance"
+        }
+    ],
+    "units": [
+        {
+            "name": "YOTTAFARAD",
+            "symbol": "YF",
+            "nicename": "yottafarad",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "ZETTAFARAD",
+            "symbol": "ZF",
+            "nicename": "zettafarad",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "EXAFARAD",
+            "symbol": "EF",
+            "nicename": "exafarad",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "PETAFARAD",
+            "symbol": "PF",
+            "nicename": "petafarad",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "TERAFARAD",
+            "symbol": "TF",
+            "nicename": "terafarad",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "ABFARAD",
+            "symbol": "abF",
+            "nicename": "abfarad",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "GIGAFARAD",
+            "symbol": "GF",
+            "nicename": "gigafarad",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "MEGAFARAD",
+            "symbol": "MF",
+            "nicename": "megafarad",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "KILOFARAD",
+            "symbol": "kF",
+            "nicename": "kilofarad",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "HECTOFARAD",
+            "symbol": "hF",
+            "nicename": "hectofarad",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "DEKAFARAD",
+            "symbol": "daF",
+            "nicename": "dekafarad",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "FARAD",
+            "symbol": "F",
+            "nicename": "farad",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "DECIFARAD",
+            "symbol": "dF",
+            "nicename": "decifarad",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "CENTIFARAD",
+            "symbol": "cF",
+            "nicename": "centifarad",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "MILLIFARAD",
+            "symbol": "mF",
+            "nicename": "millifarad",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "MICROFARAD",
+            "symbol": "[micro]F",
+            "nicename": "microfarad",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "NANOFARAD",
+            "symbol": "nF",
+            "nicename": "nanofarad",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "PICOFARAD",
+            "symbol": "pF",
+            "nicename": "picofarad",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "FEMTOFARAD",
+            "symbol": "fF",
+            "nicename": "femtofarad",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "ATTOFARAD",
+            "symbol": "aF",
+            "nicename": "attofarad",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "ZEPTOFARAD",
+            "symbol": "zF",
+            "nicename": "zeptofarad",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "YOCTOFARAD",
+            "symbol": "yF",
+            "nicename": "yoctofarad",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        }
+    ]
+}

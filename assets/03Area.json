@@ -1,0 +1,154 @@
+{
+    "group": [
+        {
+            "icon": "fa_arrows_alt",
+            "group": "Area"
+        }
+    ],    
+    "units": [
+        {
+            "name": "ACRE",
+            "symbol": "ac",
+            "nicename": "acre",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },        
+        {
+            "name": "ARE",
+            "symbol": "a",
+            "nicename": "are",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "BARN",
+            "symbol": "b",
+            "nicename": "barn",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "HECTARE",
+            "symbol": "ha",
+            "nicename": "hectare",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "HOMESTEAD",
+            "symbol": "",
+            "nicename": "homestead",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "ROOD",
+            "symbol": "",
+            "nicename": "rood",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "SQUARE_CENTIMETRE",
+            "symbol": "cm[squared]",
+            "nicename": "square centimeter",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "SQUARE_INCH",
+            "symbol": "in[squared]",
+            "nicename": "square inch",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "SQUARE_FOOT",
+            "symbol": "ft[squared]",
+            "nicename": "square foot",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "SQUARE_KILOMETRE",
+            "symbol": "km[squared]",
+            "nicename": "square kilometer",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "SQUARE_METRE",
+            "symbol": "m[squared]",
+            "nicename": "square metre",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "SQUARE_MILE",
+            "symbol": "mi[squared]",
+            "nicename": "square mile",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "SQUARE_MILLIMETRE",
+            "symbol": "mm[squared]",
+            "nicename": "square millimeter",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "SQUARE_PERCH",
+            "symbol": "",
+            "nicename": "square perch",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "SQUARE_ROD",
+            "symbol": "",
+            "nicename": "square rod",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "SQUARE_POLE",
+            "symbol": "",
+            "nicename": "square pole",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "SQUARE_YARD",
+            "symbol": "",
+            "nicename": "square yard",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        },
+        {
+            "name": "TOWNSHIP",
+            "symbol": "",
+            "nicename": "township",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        }
+    ]
+}

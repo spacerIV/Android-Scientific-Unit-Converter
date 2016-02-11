@@ -1,0 +1,18 @@
+{
+    "group": [
+        {
+            "icon": "fa_star_o",
+            "group": "Luminous intensity"
+        }
+    ],    
+    "units": [
+        {
+            "name": "METERS_PER_SQUARE_SECOND",
+            "symbol": "m/s[squared]",
+            "nicename": "meter/sec[squared]",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "group": [
+        {
+            "icon": "fa_gavel",
+            "group": "Density"
+        }
+    ],    
+    "units": [
+        {
+            "name": "METERS_PER_SQUARE_SECOND",
+            "symbol": "m/s[squared]",
+            "nicename": "meter/sec[squared]",
+            "conversionunit": "",
+            "times": "",
+            "divide": ""
+        }
+    ]
+}

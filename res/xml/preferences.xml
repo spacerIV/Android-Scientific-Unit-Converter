@@ -1,0 +1,16 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory
+        android:key="pref_key_appearance_category"
+        android:title="@string/pref_appearance_category" >
+        <PreferenceScreen
+            android:key="pref_number_format_screen"
+            android:persistent="true"
+            android:title="@string/pref_number_format_title" >
+            <ListPreference
+                android:key="test1"
+                android:title="@string/test2" />
+        </PreferenceScreen>
+    </PreferenceCategory>
+
+</PreferenceScreen>
